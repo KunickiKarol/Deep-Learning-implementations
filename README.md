@@ -6,9 +6,11 @@ This repository is my practical exploration of core deep learning architectures 
 * Choosing effective batch sizes, learning rates, and hidden layer sizes
 * Evaluating model performance over a range of training epochs
 * Analyzing loss functions and how they align with task-specific goals
+
 ![Sample Image](TSNE_LATENT.png)
 ![Sample Image](TEST_LR.png)
 By working through diverse types of deep learning models—including generative, discriminative, and metric learning models—this project also helps clarify the nuances between various learning paradigms: classification, generation, similarity learning, and representation learning.
+
 ![Sample Image](CODE_SAMPLE.png)
 ![Sample Image](FACE_SIM.png)
 Each implementation is followed by analysis of the model's training dynamics, convergence behavior, and performance metrics.
