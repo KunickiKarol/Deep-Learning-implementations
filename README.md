@@ -15,7 +15,7 @@ By working through diverse types of deep learning models—including generative,
 ![Sample Image](CODE_SAMPLE.png)
 ![Sample Image](FACE_SIM.png)
 
-Each implementation is followed by analysis of the model's training dynamics, convergence behavior, and performance metrics.
+## Models:
 
 * Flow for digit reprezentation learing adn generation- model NICE and various distributions
 * GAN for cat image generator - model DCGAN and LSGAN
